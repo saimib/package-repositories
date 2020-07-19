@@ -1,0 +1,20 @@
+{
+  "name": "@saimib/uuid",
+  "version": "1.0.0",
+  "description": "uuid generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "uuid",
+    "javascipt",
+    "saimib"
+  ],
+  "author": "saimib",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {}
+}

@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "uuid generator",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saimib/package-repositories.git#npm-package"
+  },
   "scripts": {
     "test": "jest"
   },
